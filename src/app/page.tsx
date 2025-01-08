@@ -31,13 +31,13 @@ export default async function HomePage() {
                 <span className="absolute left-0 right-0 bottom-0 h-1 bg-[hsl(63,91%,64%)] transform scale-x-0 transition-transform duration-500 group-hover:scale-x-100" style={{ marginTop: '4px', marginBottom: '-4px' }}></span>
               </span>
             </Link>
-            <Link href="/contactsTable" className="relative overflow-hidden bg-transparent text-white font-bold py-2 px-4 rounded-md transition duration-500 group">
+            <Link href="/" className="relative overflow-hidden bg-transparent text-white font-bold py-2 px-4 rounded-md transition duration-500 group">
               <span className="relative text-xl text-white">
                 Org Charts
                 <span className="absolute left-0 right-0 bottom-0 h-1 bg-[hsl(63,91%,64%)] transform scale-x-0 transition-transform duration-500 group-hover:scale-x-100" style={{ marginTop: '4px', marginBottom: '-4px' }}></span>
               </span>
             </Link>
-            <Link href="/templatesPage" className="relative overflow-hidden bg-transparent text-white font-bold py-2 px-4 rounded-md transition duration-500 group">
+            <Link href="/" className="relative overflow-hidden bg-transparent text-white font-bold py-2 px-4 rounded-md transition duration-500 group">
               <span className="relative text-xl text-white">
                 Retainers
                 <span className="absolute left-0 right-0 bottom-0 h-1 bg-[hsl(63,91%,64%)] transform scale-x-0 transition-transform duration-500 group-hover:scale-x-100" style={{ marginTop: '4px', marginBottom: '-4px' }}></span>
